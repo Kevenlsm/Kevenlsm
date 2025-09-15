@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Keven!
 
-<!--
-**Kevenlsm/Kevenlsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (Estácio – 3º período, 2025-2027)**  
+💻 Interesse em **tecnologia, desenvolvimento e aprendizado contínuo**  
+🚀 Buscando estágio em TI para aplicar meus conhecimentos e evoluir como desenvolvedor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tecnologias que estudo
+- **Linguagens:** C, Python, SQL  
+- **Ferramentas:** Git, VS Code, Pacote Office  
+- **Conceitos:** Lógica de Programação, Banco de Dados, Desenvolvimento de Sistemas  
+
+---
+
+## 📌 Projetos e Repositórios
+📂 [Exercícios Python](https://github.com/Kevenlsm/test) – exercícios e treinos em Python  
+📂 *(em breve mais projetos acadêmicos e pessoais)*  
+
+---
+
+## 🌐 Conecte-se comigo
+📧 E-mail: **kevenlucasmesquitta@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/) *(adicione seu link aqui)*  
+🔗 [GitHub](https://github.com/Kevenlsm)
+
+---
+
+✨ Sempre aprendendo e evoluindo na jornada como desenvolvedor!
