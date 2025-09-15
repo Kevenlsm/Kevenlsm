@@ -21,7 +21,7 @@
 
 ## 🌐 Conecte-se comigo
 📧 E-mail: **kevenlucasmesquitta@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/) *(adicione seu link aqui)*  
+🔗 [LinkedIn](https://www.linkedin.com/) *((https://www.linkedin.com/in/keven-lucas-mesquita-42b685309))*  
 🔗 [GitHub](https://github.com/Kevenlsm)
 
 ---
